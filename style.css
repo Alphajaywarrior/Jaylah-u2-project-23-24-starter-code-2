@@ -26,4 +26,15 @@ h2 {
 .section {
     border: 5px black solid;
     margin:5px;
+  padding: 10px;
 }
+
+body{
+  background-color: pink;
+}
+
+h2{ color: red;
+  }
+
+div class=".section-container"
+<div class="section"
